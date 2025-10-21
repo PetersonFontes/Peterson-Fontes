@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Propostas Estratégicas SCC SBT",
+  "description": "Uma aplicação para gerar propostas comerciais estratégicas e analisar clientes usando IA, baseada no workflow do SCC SBT.",
+  "requestFramePermissions": []
+}
